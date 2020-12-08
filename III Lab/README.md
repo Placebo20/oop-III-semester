@@ -11,4 +11,5 @@
  3. https://www.sfml-dev.org/documentation/2.5.1/group__audio.php
  4. https://www.sfml-dev.org/documentation/2.5.1/group__window.php
  5. https://www.sfml-dev.org/documentation/2.5.1/group__system.php
+ 
 Звіт-ретроспектива у файлі з назвою Report.docx.

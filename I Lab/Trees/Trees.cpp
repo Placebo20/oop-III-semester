@@ -544,7 +544,7 @@ void BinarySearchTree::print2DUtil(Node* current, int space)
     std::cout<<std::endl;
     for (int i = COUNT; i < space; i++)
         std::cout<<" ";
-    std::cout<<"[" << current->id << "]" <<current->day << "/" << current->month << "/" << current->year << "year" << " " << current->hour << ":" << current->minute << ":" << current->second <<"\n";
+    std::cout<< current->day << "/" << current->month << "/" << current->year << "year" << " " << current->hour << ":" << current->minute << ":" << current->second <<"\n";
 
     print2DUtil(current->left, space);
 }

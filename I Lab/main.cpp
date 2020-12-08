@@ -1,4 +1,4 @@
-#include "modes.h"
+#include "Trees/Trees.h"
 int main() {
     //chooseTree();
     BinarySearchTree obj(0,0,0,0,0,0);
